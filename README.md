@@ -1,2 +1,2 @@
-# roboFriends
+# robo-friends
 A React app
